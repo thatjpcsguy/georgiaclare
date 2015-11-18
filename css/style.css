@@ -11,7 +11,7 @@
 		font-size: 24px;
 		font-weight: 500;
 		line-height: 1.65em;
-		color: #444;
+		color: black;
 	}
 	
 		h2
@@ -39,7 +39,7 @@
 	a
 	{
 		text-decoration: none;
-		color: #4dac71;
+		color: black;
 	}
 
 	
@@ -421,7 +421,6 @@
 	{
 		position: relative;
 		z-index: 1;
-		top: -140px;
 	}
 	
 		#logo h1
@@ -711,4 +710,8 @@
 
 table td {
 	padding: 0 20px;
+}
+
+h2 {
+	color: black;
 }
